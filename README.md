@@ -22,7 +22,10 @@
 
     <section id="about">
         <h2>About Me</h2>
-        <p>I am a communicative and driven professional with a background in data science and physics. My passion for learning and problem-solving drives my continuous growth in technical and leadership skills.</p>
+        <p>I I am a friendly and communicative professional who thrives in collaborative environments. I pride myself on my strong teamwork and
+leadership abilities, always approaching challenges with empathy and a positive attitude. I am dedicated to delivering high-quality results and
+consistently focus on the task at hand. My passion for my work fuels my commitment to continuous learning and growth, enabling me to stay
+current and effective in all my endeavors. I enjoy connecting with colleagues and fostering a supportive and motivating workplace culture.</p>
     </section>
 
     <section id="skills">
